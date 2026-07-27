@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WebApiEmpleado_Scaffold/WebApiEmpleado_Scaffold.csproj" />
+  <Project Path="WebCliente/WebCliente.csproj" Id="35961a19-f7bb-4105-8fac-80425eaf8160" />
+</Solution>
